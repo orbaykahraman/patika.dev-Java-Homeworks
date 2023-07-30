@@ -96,15 +96,15 @@ public class CourseGrade {
             val = Math.round(val);
             int val1 = (int) val;
             switch (val1) {
-                case 0 : this.gradeTaken = Grade.F;
+                case 0 : this.gradeTaken = Grade.F;break;
 
-                case 1 : this.gradeTaken = Grade.D;
+                case 1 : this.gradeTaken = Grade.D;break;
 
-                case 2 : this.gradeTaken = Grade.C;
+                case 2 : this.gradeTaken = Grade.C;break;
 
-                case 3 : this.gradeTaken = Grade.B;
+                case 3 : this.gradeTaken = Grade.B;break;
 
-                case 4 : this.gradeTaken = Grade.A;
+                case 4 : this.gradeTaken = Grade.A;break;
 
             }
         }

@@ -44,7 +44,7 @@ public class Transcript {
     }
     @Override
     public String toString() {
-        return "Student ID : " + studentId +  "\n" +printCourseGrades() + "\n" + "GPA : " + GPA;
+        return "Student ID : " + studentId +  "\n" +printCourseGrades() + "GPA : " + GPA;
     }
 
 }
