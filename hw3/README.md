@@ -32,7 +32,7 @@ ekrana yazdırıyor ve program bitiyor.
 
 ## Ödev Olarak İletilen Doküman
 
-![ödev page 1](/assets/Page1.png)
-![ödev page 2](/assets/Page2.png)
-![ödev page 3](/assets/Page3.png)
-![ödev page 4](/assets/Page4.png)
+![ödev page 1](/hw3/assets/Page1.png)
+![ödev page 2](/hw3/assets/Page2.png)
+![ödev page 3](/hw3/assets/Page3.png)
+![ödev page 4](/hw3/assets/Page4.png)
